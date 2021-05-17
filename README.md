@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ... Team
 - 📫 How to reach me ...
- >Instagram = @afen_tex
- >Facebook = @afentex
+ >Instagram = @afen_tex,
+ >Facebook = @afentex,
  >Email = afentex@gmail.com
 
 <!---
